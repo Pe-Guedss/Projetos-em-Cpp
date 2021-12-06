@@ -1,0 +1,22 @@
+{
+    // See https://go.microsoft.com/fwlink/?LinkId=733558
+    // for the documentation about the tasks.json format
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "compilar",
+            "type": "shell",
+            "command": "g++ Ponto2D.cpp Nave.cpp main.cpp -o batalha_espacial.exe",
+            "problemMatcher": [],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        },
+        {
+            "label": "executar",
+            "type": "shell",
+            "command": "./batalha_espacial.exe"
+        }
+    ]
+}
