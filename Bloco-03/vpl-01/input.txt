@@ -1,0 +1,12 @@
+insert
+Galaxy M22, Samsung, preto, 128, 4, 0.186, 10, 1349
+insert
+Moto G50, Motorola, azul, 128, 4, 0.206, 10, 1799
+insert
+iPhone 12 Pro, Apple, branco, 512, 6, 0.206, 10, 6974
+sell 
+2 5
+sell
+1 6
+sell        
+3 4
