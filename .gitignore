@@ -7,3 +7,5 @@
 *.hpp
 *.h
 *.pdf
+testes/
+*.out
