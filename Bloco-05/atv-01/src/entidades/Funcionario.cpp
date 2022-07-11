@@ -9,7 +9,7 @@ Funcionario::Funcionario(double salario, string nome, int idade) : Pessoa(nome, 
 }
 
 void Funcionario::setSalario(double s) {
-    this->salario = (s >= 1100) ? s : 1100; //O Funcionário recebe pelo menos o salário mínimo
+    this->salario = (s >= 1100) ? s : 1100; //O Funcionï¿½rio recebe pelo menos o salï¿½rio mï¿½nimo
 }
 
 double Funcionario::getSalario() const {
