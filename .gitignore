@@ -3,7 +3,10 @@
 #####################################
 
 *.exe
+*.out
 *.o
-*.hpp
-*.h
 *.pdf
+/testes
+**/.vscode
+**/main
+**/teste
